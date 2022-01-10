@@ -1,4 +1,4 @@
-//WHAT AN JOURNEY!
+//WHAT A JOURNEY!
 
 #include "StdAfx.h"
 #include <iostream>
